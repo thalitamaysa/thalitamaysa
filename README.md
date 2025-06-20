@@ -11,7 +11,7 @@
 ### ✨ Sobre mim
 
 Oi! Sou a Thalita, uma profissional da área de tecnologia com mais de 4 anos de experiência na RD Saúde. Comecei minha jornada no varejo e, com dedicação e esforço, conquistei meu espaço no setor corporativo como Analista de Suporte e Sistemas.
-Sou apaixonada por aprender e evoluir. Atualmente estou estudando programação, conciliando a carreira, a maternidade e a faculdade. 💕💡
+Sou apaixonada por aprender e evoluir. Atualmente estou estudando programação, conciliando a carreira, a maternidade e a faculdade, além de descobrir uma nova paixão que é a montagem de computadores (Hardware). 💕💡
 
 ---
 
@@ -33,7 +33,8 @@ Sou apaixonada por aprender e evoluir. Atualmente estou estudando programação,
 - Comprar meu carro dos sonhos 💙
 
 ---
-
+🌱 Repositório em destaque:
+- 📘 Portfólio_Thalita: Nesse repositório está meu portfólio feito com bootstrap com 2 de meus projetos de jogos.
 <!--  --🌱 Repositórios em destaque:
 *(Escolha 2 ou 3 repositórios e coloque aqui os links com descrição)*
 
@@ -45,7 +46,7 @@ Sou apaixonada por aprender e evoluir. Atualmente estou estudando programação,
 
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/-Thalita%20Maysa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalita-maysa-a17707185)](https://www.linkedin.com/in/thalita-maysa-a17707185)  
-[![Gmail](https://img.shields.io/badge/-thalita.seuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:thalita.seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/-thalita.seuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:thatamaysa@gmail.com)
 
 ---
 
