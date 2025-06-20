@@ -3,24 +3,24 @@
 <p align="center">
   💻 Analista de Sistemas <br>
   🎓 Em transição para o desenvolvimento <br>
-  👩‍👧 Mãe, estudante e apaixonada por tecnologia <br>
+  👩‍👧 Mãe, estudante e apaixonada por jogos e tecnologia <br>
 </p>
 
 ---
 
 ### ✨ Sobre mim
 
-Oi! Sou a Thalita, uma profissional da área de tecnologia com mais de 4 anos de experiência na RD Saúde. Comecei minha jornada no varejo e, com dedicação e esforço, conquistei meu espaço no setor corporativo como Analista de Suporte e Sistemas — onde fui promovida três vezes! 🚀
-
+Oi! Sou a Thalita, uma profissional da área de tecnologia com mais de 4 anos de experiência na RD Saúde. Comecei minha jornada no varejo e, com dedicação e esforço, conquistei meu espaço no setor corporativo como Analista de Suporte e Sistemas.
 Sou apaixonada por aprender e evoluir. Atualmente estou estudando programação, conciliando a carreira, a maternidade e a faculdade. 💕💡
 
 ---
 
 ### 🧠 Atualmente estou aprendendo:
 - Lógica de programação
-- JavaScript
+- Java
+- C#
+- Unity 2D
 - Git & GitHub
-- SQL
 - Boas práticas com VS Code
 
 ---
@@ -28,17 +28,18 @@ Sou apaixonada por aprender e evoluir. Atualmente estou estudando programação,
 ### 📌 Meus objetivos:
 - Finalizar minha graduação 👩‍🎓
 - Evoluir para o desenvolvimento de software 💻
+- Evoluir para o desenvolvimento de jogos
 - Tirar minha CNH 🚗
 - Comprar meu carro dos sonhos 💙
 
 ---
 
-### 🌱 Repositórios em destaque:
+<!--  --🌱 Repositórios em destaque:
 *(Escolha 2 ou 3 repositórios e coloque aqui os links com descrição)*
 
 - 📘 `nome-do-repo`: Uma breve descrição do que ele faz ou o que você aprendeu com ele.
 - 📘 `outro-repo`: Exemplo de estudo com JS e manipulação de DOM.
-- 📘 `mais-um`: Projeto simples com HTML e CSS (em desenvolvimento).
+- 📘 `mais-um`: Projeto simples com HTML e CSS (em desenvolvimento).-->
 
 ---
 
