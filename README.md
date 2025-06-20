@@ -46,7 +46,7 @@ Sou apaixonada por aprender e evoluir. Atualmente estou estudando programação,
 
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/-Thalita%20Maysa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalita-maysa-a17707185)](https://www.linkedin.com/in/thalita-maysa-a17707185)  
-[![Gmail](https://img.shields.io/badge/-thalita.seuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:thatamaysa@gmail.com)
+[![Gmail](https://img.shields.io/badge/-thatamaysa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:thatamaysa@gmail.com)
 
 ---
 
